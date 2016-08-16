@@ -1,3 +1,3 @@
-# Read me for Day 1
+# Readme for Day 1
 
-This is a change
+This is a test
